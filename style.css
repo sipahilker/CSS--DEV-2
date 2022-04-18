@@ -1,0 +1,46 @@
+img{
+    display: block;
+    margin: auto;
+}
+.box{
+    display: block;
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 90%;
+    margin: auto;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+a{
+    text-align: center;
+    display: block;
+}
+p{
+    text-align: center;
+}
+.sol{
+    background-color: #7EE5DA;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    width: 40%;
+    margin: auto;
+}
+.orta{
+    background-color: #70CCC2;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    margin: auto;
+}
+.sag{
+    background-color: #62B3AA;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+footer{
+    font-size: 13px;
+}
